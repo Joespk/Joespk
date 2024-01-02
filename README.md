@@ -30,5 +30,6 @@ I specialize in:
 If you are looking for a developer with expertise in React and TypeScript, or if you have exciting projects in mind, I'm open to collaborations. You can reach me via:
 
 ### LinkedIn: https://www.linkedin.com/in/supakrit-thapweaw-12273a181
-### Email: [suapkritjoe@gmail.com]
+### Email: suapkritjoe@gmail.com
+
 Thanks for visiting my profile! 😊
