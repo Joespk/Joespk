@@ -13,7 +13,12 @@ Tech Stack: React, Express, PostgreSQL
 Tech Stack: React Tailwind Express Firebase
 
 💻 Tech Stack
-I specialize in: [![My Skills](https://skillicons.dev/icons?i=aws,js,ts,react,tailwind,nodejs,express,prisma&perline=3)](https://skillicons.dev) Database: Postgres sql
+I specialize in: [![My Skills](https://skillicons.dev/icons?i=aws,js,ts,react,tailwind,nodejs,express,prisma&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,js,ts,react,tailwind,nodejs,express,prisma" />
+  </a>
+</p>Database: Postgres sql
 Tools: Git , Docker , Firebase , Wordpress
 Design: Figma , Adobe
 
