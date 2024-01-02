@@ -16,7 +16,7 @@ Tech Stack: React Tailwind Express Firebase
 I specialize in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,js,ts,react,tailwind,nodejs,express,prisma,postgres,git,docker,firebase,wordpress,vscode,figma,adobe" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,prisma,postgres,git,docker,firebase,wordpress,vscode,figma,adobe" />
   </a>
 </p>
 
