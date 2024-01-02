@@ -1,7 +1,5 @@
 ### Hi I'm Joespk Welcome to my Github profile  👋
 
-![401048596_7204855202892881_6594180199991378125_n](https://github.com/Joespk/Joespk/assets/96042239/10b8e500-c0b0-405b-93f2-29cbaf676af9)
-
 I'm a software developer passionate about creating and enhancing applications with React and TypeScript. 
 My expertise lies in crafting user interfaces that are not only user-friendly but also efficient in managing application states through the use of React Hooks.
 
