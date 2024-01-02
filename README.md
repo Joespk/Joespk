@@ -1,10 +1,9 @@
 ### Hi I'm Joespk Welcome to my Github profile  👋
+
+![401048596_7204855202892881_6594180199991378125_n](https://github.com/Joespk/Joespk/assets/96042239/10b8e500-c0b0-405b-93f2-29cbaf676af9)
+
 I'm a software developer passionate about creating and enhancing applications with React and TypeScript. 
 My expertise lies in crafting user interfaces that are not only user-friendly but also efficient in managing application states through the use of React Hooks.
-
-
-![401048596_7204855202892881_6594180199991378125_n](https://github.com/Joespk/Joespk/assets/96042239/f7c88143-b37d-4bef-b2ea-fc74681edf78)
-
 
 🚀 Professional Experience
 [BOX exhibit CO,LTD/hall of inspiration. 360 ViRtual Tour]: A website that allows users to view the hall of inspiration. 360 Virtual Tour through a virtual website. and can have a guide for taking tours
