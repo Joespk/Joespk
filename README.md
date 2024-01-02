@@ -2,7 +2,8 @@
 I'm a software developer passionate about creating and enhancing applications with React and TypeScript. 
 My expertise lies in crafting user interfaces that are not only user-friendly but also efficient in managing application states through the use of React Hooks.
 
-![Uploading image.png…]()
+
+![401048596_7204855202892881_6594180199991378125_n](https://github.com/Joespk/Joespk/assets/96042239/f7c88143-b37d-4bef-b2ea-fc74681edf78)
 
 
 🚀 Professional Experience
