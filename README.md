@@ -5,7 +5,7 @@
 
 I'm a software developer passionate about creating and enhancing applications with React and TypeScript. My expertise lies in crafting user interfaces that are not only user-friendly but also efficient in managing application states through the use of React Hooks.
 
-🚀###Professional Experience
+### 🚀 Professional Experience  
 
 [BOX exhibit CO,LTD/hall of inspiration. 360 ViRtual Tour]: A website that allows users to view the hall of inspiration. 360 Virtual Tour through a virtual website. and can have a guide for taking tours
 Tech Stack : React ,Tailwind ,Express 3Dvista(VR)
@@ -19,7 +19,7 @@ Tech Stack: React, Express, PostgreSQL
 [Cleverse Academy/Puadlhong: A website providing advice on muscle aches and pains]: A site where you can choose muscles according to your pain symptoms. You can comment on the guidelines. 
 Tech Stack: React Tailwind Express Firebase
 
-💻 ###Tech Stack
+### 💻 Tech Stack
 I specialize in:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ I specialize in:
 </p>
 
 
-🤝 Let's Connect
+### 🤝 Let's Connect
 If you are looking for a developer with expertise in React and TypeScript, or if you have exciting projects in mind, I'm open to collaborations. You can reach me via:
 
 LinkedIn: [https://www.linkedin.com/in/supakrit-thapweaw-12273a181]
