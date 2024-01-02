@@ -15,8 +15,6 @@ I'm a software developer passionate about creating and enhancing applications wi
 
 [Cleverse Academy/Puadlhong: A website providing advice on muscle aches and pains] : A site where you can choose muscles according to your pain symptoms. You can comment on the guidelines. 
 
-Tech Stack: React Tailwind Express Firebase
-
 ### 💻 Tech Stack
 I specialize in:
 <p align="center">
